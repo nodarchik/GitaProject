@@ -146,10 +146,10 @@ body{
   display: none;
 }
 .toggle img.open,
-.toggle .active img.close{
+.toggle.active img.close{
   display: block;
 }
 .toggle img.close,
-.toggle .active img.open{
+.toggle.active img.open{
   display: none;
 }
